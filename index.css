@@ -1,0 +1,15 @@
+@import "bootstrap.min.css";
+
+.separator{
+    height: 1px;
+    width: 100%;
+    border-bottom: #6c757d solid 1px;
+}
+
+h3{
+    text-align: center;
+}
+
+h1{
+    color : #BC1142;
+}
